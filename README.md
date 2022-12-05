@@ -8,7 +8,7 @@ For instance, accelerated variants of Proximal Point, ADMM, Douglas-Rachford, Da
 All these methods can be seen as discretizations of the same continuous-time dynamical system, in deterministic and
 stochastic settings, as summarized below:
 
-![](https://github.com/guisf/accelerated_proximal_splitting/blob/main/figs/diagramaa.png)
+![](https://github.com/guisf/accelerated_proximal_splitting/blob/main/figs/diagram.png)
 
 Applying some of our proposed methods to a LASSO regression problem, we see an improved convergence
 compared to the base method (these are referenced as "decaying" and "constant"):
@@ -18,7 +18,7 @@ compared to the base method (these are referenced as "decaying" and "constant"):
 By solving a matrix completion problem, we can recover a matrix from few observed entries.
 We illustrate this by recoverring an image where some pixels were erased:
 
-![](https://github.com/guisf/accelerated_proximal_splitting/blob/main/figs/boats_copyaa.png)
+![](https://github.com/guisf/accelerated_proximal_splitting/blob/main/figs/boats_copy.png)
 
 We implement the accelerated algorithms with an annealing schedulle on a penalty parameter. The improved convergence rate
 of some of our methods are shown below:
