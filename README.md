@@ -24,3 +24,5 @@ We implement the accelerated algorithms with an annealing schedulle on a penalty
 of some of our methods are shown below:
 
 ![](https://github.com/guisf/accelerated_proximal_splitting/blob/main/figs/boat_annealing.png)
+
+
