@@ -23,6 +23,6 @@ We illustrate this by recoverring an image where some pixels were erased:
 We implement the accelerated algorithms with an annealing schedulle on a penalty parameter. The improved convergence rate
 of some of our methods are shown below:
 
-![](https://github.com/guisf/accelerated_proximal_splitting/blob/main/figs/boats_annealing.png)
+![](https://github.com/guisf/accelerated_proximal_splitting/blob/main/figs/boat_annealing.png)
 
 
